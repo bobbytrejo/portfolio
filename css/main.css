@@ -21,3 +21,7 @@ img {
 h1, p {
   color: white;
 }
+
+input, textarea, button {
+  display: block;
+}
